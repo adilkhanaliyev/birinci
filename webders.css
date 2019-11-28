@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,400i,500,500i,600,600i,700,700i|Lato:100,100i,300,300i,400,400i,700,700i,900,900i&display=swap');
+.container {
+    max-width: 960px;
+    margin: auto;
+}
+.active{
+    color: #cb3362 !important;
+}
+#ust{
+    background-color: #edeaeb;
+    width: 100%;
+    height: 120px;
+}
+#ust ul{
+    float: right;
+    margin-top: 60px;
+    
+}
+#ust li{
+    display: inline;
+} 
+#ust li a{
+    margin-right: 80px;
+    font-size: 15px;
+color:#7a6666;
+font-weight: 400;
+font-family: 'Lato', sans-serif;
+}
+#ust img{
+    padding-top: 40px;
+}
+#orta{
+    height: 660px;
+    background-repeat: no-repeat;
+    background-color:#f8f8f8;
+    background-position: center;
+}
+#yazi{
+    height: 260px;
+    background-color: #eae7e8;
+    background-image: url(yogurt.jpg);
+    background-repeat: no-repeat;
+    background-position-x: 920px;
+    background-position-y: bottom;
+}
+#yazi h3{
+    padding-top: 50px;
+    font: 700 1.125em 'Lato', sans-serif;
+    color: #7a6666;
+}
+#yazi h4{
+    font: 700 1.875em 'Lato', sans-serif;
+    color: #e32a62;
+    margin-top: 25px;
+}
+#yazi p{
+    width: 550px;
+    font: 700 .875em 'Lato', sans-serif;
+    color: #7a6666;
+    margin-top: 35px;
+    padding-bottom: 70px;
+}
+#wekil{
+    height: 160px;
+    background-color: #c8c10d;
+}
+.findiq{
+    width: 240px;
+    float: left;
+    text-align: center;
+}
+.findiq h3{
+font-size: 20px;
+color: #ffffff;
+font-family: "Lato";
+font-weight: 400;
+margin-top: 25px;
+}
+.findiq img{
+    height: 60px;
+    margin-top: 40px;
+}
